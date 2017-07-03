@@ -1,0 +1,61 @@
+d:\jeferson\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\jeferson\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\jeferson\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+d:\jeferson\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\jeferson\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\jeferson\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\jeferson\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+d:\jeferson\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGenius.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\Projetinho Caversan\Projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Guilherme\Desktop\Projetinho Caversan\Projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guilherme\Desktop\Projetinho Caversan\Projeto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Guilherme\Desktop\Projetinho Caversan\Projeto\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guilherme\Desktop\Projetinho Caversan\Projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Projetinho Caversan\Projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGenius.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\Projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\Projeto\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMenu.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGeniusFacil.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGeniusMedio.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGeniusDificil.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\1.wav
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\2.wav
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\3.wav
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\4.wav
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGeniusDificil.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGeniusMedio.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGeniusFacil.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMenu.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Guilherme\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Guilherme\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\1.wav
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\2.wav
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\3.wav
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\4.wav
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGeniusDificil.resources
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGeniusMedio.resources
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmGeniusFacil.resources
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMenu.resources
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\FACUL\4Sem\EDEA\Projetinho Caversan\WindowsFormsApplication1 - FINALIZADO - BACKUP\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
